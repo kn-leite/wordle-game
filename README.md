@@ -13,3 +13,5 @@
 - If the tile turns yellow 🟡, the letter is in the word, but it is not in the correct spot.
 
 - If the tile turns gray ⚫, the letter is not in the word.
+
+[Early Demo](https://kn-leite.github.io/)
