@@ -4,7 +4,7 @@
 
 ## How to Play Wordle ❓
 
-- Each guess must be a valid five-letter word. 5️⃣
+- Each guess must be a valid five-letter word. 📝
 
 - The color of a tile will change to show you how close your guess was. 
 
